@@ -32,6 +32,6 @@ While the page is relatively intuitive and easy to navigate it’s simplicity do
 -	The search fields are case-sensitive and the table will not update correctly unless the filter criteria perfectly matches what is listed in the table. 
 -	There is also no button or call to action that users need to preform to update the table. This may have some users concerned that the table did not update when they entered their filter requirements. 
 
-### Recommendations for Further Development. 
+### Recommendations for Further Development 
 -	If we were to publish the webpage we would recommend connecting it to a live data source so the information is up-to-date. 
 -	We would also recommend that the filtering functionality be further refined with a click-button, drop down lists or that auto-fill functionality be added so users can more easily narrow their search results. 
